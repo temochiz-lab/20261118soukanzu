@@ -1,725 +1,733 @@
 {
-  "version": 1,
-  "groups": [
-    {
-      "id": "tkd9rx78",
-      "name": "ワイグループ(2026参画)",
-      "x": -162,
-      "y": 180,
-      "w": 504,
-      "h": 234,
-      "color": "#438ac7",
-      "fill": "#2683d422"
-    },
-    {
-      "id": "s5abm505",
-      "name": "既存ベンダー",
-      "x": 486,
-      "y": 216,
-      "w": 504,
-      "h": 360,
-      "color": "#438ac7",
-      "fill": "#2683d422"
-    },
-    {
-      "id": "uf3gsu10",
-      "name": "お客様",
-      "x": 486,
-      "y": -54,
-      "w": 504,
-      "h": 198,
-      "color": "#24733a",
-      "fill": "#e8f7e9",
-      "paletteIndex": 1
-    },
-    {
-      "id": "51gx6rqd",
-      "name": "一流コンサル(2025年参画)",
-      "x": 486,
-      "y": 612,
-      "w": 252,
-      "h": 162,
-      "color": "#438ac7",
-      "fill": "#2683d422"
-    },
-    {
-      "id": "rp1szumr",
-      "name": "QA",
-      "x": 90,
-      "y": -54,
-      "w": 252,
-      "h": 198,
-      "color": "#205982",
-      "fill": "#e7f3ff",
-      "paletteIndex": 0
-    },
-    {
-      "id": "uh699jgb",
-      "name": "デザイン会社",
-      "x": 1152,
-      "y": 324,
-      "w": 252,
-      "h": 162,
-      "color": "#205982",
-      "fill": "#e7f3ff",
-      "paletteIndex": 0
-    },
-    {
-      "id": "ui9vhmev",
-      "name": "製品販売",
-      "x": -396,
-      "y": 720,
-      "w": 486,
-      "h": 144,
-      "color": "#205982",
-      "fill": "#e7f3ff",
-      "paletteIndex": 0
-    },
-    {
-      "id": "gufnmpml",
-      "name": "営業",
-      "x": -162,
-      "y": 468,
-      "w": 252,
-      "h": 126,
-      "color": "#205982",
-      "fill": "#e7f3ff",
-      "paletteIndex": 0
-    },
-    {
-      "id": "zhq1z1kz",
-      "name": "開発",
-      "x": -162,
-      "y": 594,
-      "w": 252,
-      "h": 126,
-      "color": "#205982",
-      "fill": "#e7f3ff",
-      "paletteIndex": 0
-    },
-    {
-      "id": "cdrvsubp",
-      "name": "コンサル",
-      "x": -162,
-      "y": 864,
-      "w": 252,
-      "h": 126,
-      "color": "#205982",
-      "fill": "#e7f3ff",
-      "paletteIndex": 0
-    },
-    {
-      "id": "iks1vf31",
-      "name": "俺たちのPJ",
-      "x": 90,
-      "y": -108,
-      "w": 1332,
-      "h": 1098,
-      "color": "#765239",
-      "fill": "#f4ece5",
-      "paletteIndex": 9
-    }
-  ],
-  "nodes": [
-    {
-      "id": "ngoapfq2",
-      "name": "同僚",
-      "role": "コミュニケーション",
-      "x": 108,
-      "y": 234,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E7%AC%91%E9%A1%94%E3%81%AE%E5%A5%B3%E6%80%A7%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-2.png"
-    },
-    {
-      "id": "p93hx3m5",
-      "name": "ワイ",
-      "role": "技術",
-      "x": 108,
-      "y": 324,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
-    },
-    {
-      "id": "jyey8ufn",
-      "name": "ボス",
-      "role": "",
-      "x": -144,
-      "y": 234,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
-    },
-    {
-      "id": "drye2uwg",
-      "name": "大ボス",
-      "role": "",
-      "x": -144,
-      "y": 324,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%B0%E3%83%AC%E3%83%BC%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
-    },
-    {
-      "id": "9pznft10",
-      "name": "ロックマン",
-      "role": "マネージャー",
-      "x": 504,
-      "y": 270,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E4%B8%8D%E6%BA%80%E3%81%92%E3%81%AA%E3%82%B9%E3%83%BC%E3%83%84%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-4.png"
-    },
-    {
-      "id": "a24x54oe",
-      "name": "部下F",
-      "role": "技術オブザーバー",
-      "x": 756,
-      "y": 270,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
-    },
-    {
-      "id": "494awr5j",
-      "name": "部下M",
-      "role": "敏腕マネージャー",
-      "x": 756,
-      "y": 378,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E8%87%AA%E4%BF%A1%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%BC%E3%83%84%E5%A7%BF%E3%81%AE%E7%94%B7%E6%80%A7-3.png"
-    },
-    {
-      "id": "vn3nxs23",
-      "name": "部下K",
-      "role": "敏腕エンジニア",
-      "x": 756,
-      "y": 486,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E7%AC%91%E9%A1%94%E3%81%AE%E8%8B%A5%E6%89%8B%E7%94%B7%E6%80%A7%E4%BC%9A%E7%A4%BE%E5%93%A1%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC-1.png"
-    },
-    {
-      "id": "o6486ch9",
-      "name": "部長",
-      "role": "決定権者",
-      "x": 522,
-      "y": 18,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
-    },
-    {
-      "id": "03sne3oi",
-      "name": "課長",
-      "role": "ITに詳しい",
-      "x": 756,
-      "y": 18,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E5%8F%A3%E3%81%B2%E3%81%92%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
-    },
-    {
-      "id": "t60y2jgk",
-      "name": "コンサルマン",
-      "role": "人当たりが良い",
-      "x": 504,
-      "y": 666,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
-    },
-    {
-      "id": "jrs5b8z9",
-      "name": "現リーダー",
-      "role": "",
-      "x": 108,
-      "y": -18,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E7%AC%91%E9%A1%94%E3%81%AE%E8%8B%A5%E6%89%8B%E7%94%B7%E6%80%A7%E4%BC%9A%E7%A4%BE%E5%93%A1%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC-1.png"
-    },
-    {
-      "id": "5lgdvkt6",
-      "name": "過去リーダー",
-      "role": "ロックマンと衝突",
-      "x": 126,
-      "y": 54,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E4%B8%8D%E6%BA%80%E3%81%92%E3%81%AA%E3%82%B9%E3%83%BC%E3%83%84%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-4.png"
-    },
-    {
-      "id": "13f46nln",
-      "name": "デザイナー",
-      "role": "",
-      "x": 1170,
-      "y": 378,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E8%87%AA%E4%BF%A1%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%BC%E3%83%84%E5%A7%BF%E3%81%AE%E7%94%B7%E6%80%A7-3.png"
-    },
-    {
-      "id": "qa7041zp",
-      "name": "営業",
-      "role": "",
-      "x": -144,
-      "y": 504,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E8%87%AA%E4%BF%A1%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%BC%E3%83%84%E5%A7%BF%E3%81%AE%E7%94%B7%E6%80%A7-3.png"
-    },
-    {
-      "id": "2g36k09r",
-      "name": "開発",
-      "role": "",
-      "x": -144,
-      "y": 630,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
-    },
-    {
-      "id": "q590d85y",
-      "name": "メンバー",
-      "role": "",
-      "x": -144,
-      "y": 756,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
-    },
-    {
-      "id": "t0qnbvnl",
-      "name": "ボス",
-      "role": "",
-      "x": -378,
-      "y": 756,
-      "w": 210,
-      "h": 82,
-      "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
-    }
-  ],
-  "edges": [
-    {
-      "id": "5m34n0ep",
-      "from": "rp1szumr",
-      "to": "9pznft10",
-      "label": "過去に衝突",
-      "color": "#e32424",
-      "colorKey": "red",
-      "width": 3,
-      "direction": "both",
-      "lineType": "straight",
-      "dash": "dashed",
-      "toType": "node",
-      "toSide": "left",
-      "fromSide": "right",
-      "route": [
+  "version": 2,
+  "type": "tab",
+  "tab": {
+    "id": "sample",
+    "name": "相関図サンプル",
+    "data": {
+      "version": 1,
+      "groups": [
         {
-          "x": 342,
-          "y": 113.9386213835102
+          "id": "tkd9rx78",
+          "name": "ワイグループ(2026参画)",
+          "x": -162,
+          "y": 180,
+          "w": 504,
+          "h": 234,
+          "color": "#438ac7",
+          "fill": "#2683d422"
         },
         {
-          "x": 360,
-          "y": 113.9386213835102
-        },
-        {
-          "x": 360,
-          "y": 281.6624042627438
-        },
-        {
-          "x": 504,
-          "y": 281.6624042627438
-        }
-      ],
-      "fromType": "group",
-      "labelX": 365.3751220703125,
-      "labelY": 160.3580780029297,
-      "fromOffset": 0.8481748554722737,
-      "toOffset": 0.14222444222858252,
-      "cornerStyle": "sharp"
-    },
-    {
-      "id": "1jdbka3z",
-      "from": "9pznft10",
-      "to": "tkd9rx78",
-      "label": "感じ悪い",
-      "color": "#e32424",
-      "colorKey": "red",
-      "width": 3,
-      "lineType": "straight",
-      "fromSide": "left",
-      "toSide": "right",
-      "route": [
-        {
-          "x": 504,
-          "y": 310
-        },
-        {
-          "x": 342,
-          "y": 310
-        }
-      ],
-      "cornerStyle": "sharp",
-      "fromOffset": 0.4878048780487805,
-      "toOffset": 0.5555555555555556,
-      "toType": "group"
-    },
-    {
-      "id": "386q9fkk",
-      "from": "s5abm505",
-      "to": "uf3gsu10",
-      "fromType": "group",
-      "toType": "group",
-      "label": "ベンダーロック",
-      "color": "#e32424",
-      "colorKey": "red",
-      "width": 3,
-      "lineType": "straight",
-      "fromSide": "top",
-      "toSide": "bottom",
-      "route": [
-        {
-          "x": 734,
-          "y": 216
-        },
-        {
-          "x": 734,
-          "y": 144
-        }
-      ],
-      "cornerStyle": "sharp",
-      "fromOffset": 0.49206349206349204,
-      "toOffset": 0.49206349206349204,
-      "labelX": 736.029052734375,
-      "labelY": 183.48846435546875
-    },
-    {
-      "id": "7bfkv0tj",
-      "from": "s5abm505",
-      "to": "uh699jgb",
-      "fromType": "group",
-      "toType": "group",
-      "label": "請負?",
-      "color": "#12a343",
-      "colorKey": "green",
-      "width": 3,
-      "lineType": "straight",
-      "fromSide": "right",
-      "toSide": "left",
-      "route": [
-        {
-          "x": 990,
-          "y": 412
-        },
-        {
-          "x": 1152,
-          "y": 412
-        }
-      ],
-      "cornerStyle": "sharp",
-      "fromOffset": 0.5444444444444444,
-      "toOffset": 0.5432098765432098
-    },
-    {
-      "id": "qrrfl3q1",
-      "from": "51gx6rqd",
-      "to": "9pznft10",
-      "fromType": "group",
-      "toType": "node",
-      "label": "",
-      "color": "#f28b13",
-      "colorKey": "orange",
-      "width": 3,
-      "lineType": "straight",
-      "route": [
-        {
-          "x": 608,
-          "y": 612
-        },
-        {
-          "x": 608,
-          "y": 352
-        }
-      ],
-      "fromSide": "top",
-      "toSide": "bottom",
-      "cornerStyle": "sharp",
-      "fromOffset": 0.48412698412698413,
-      "toOffset": 0.49523809523809526
-    },
-    {
-      "id": "m6ws8277",
-      "from": "qa7041zp",
-      "to": "tkd9rx78",
-      "fromType": "node",
-      "toType": "group",
-      "label": "監視",
-      "color": "#7622bb",
-      "colorKey": "purple",
-      "width": 3,
-      "toSide": "bottom",
-      "toOffset": 0.3055555555555556,
-      "lineType": "straight",
-      "cornerStyle": "sharp",
-      "fromSide": "top",
-      "fromOffset": 0.6476190476190476,
-      "route": [
-        {
-          "x": -8,
-          "y": 504
-        },
-        {
-          "x": -8,
-          "y": 414
-        }
-      ]
-    },
-    {
-      "id": "qxm5hhiz",
-      "from": "2g36k09r",
-      "to": "51gx6rqd",
-      "fromType": "node",
-      "toType": "group",
-      "label": "対抗意識",
-      "color": "#f28b13",
-      "colorKey": "orange",
-      "width": 3,
-      "lineType": "straight",
-      "cornerStyle": "sharp",
-      "fromSide": "right",
-      "toSide": "left",
-      "fromOffset": 0.4878048780487805,
-      "toOffset": 0.35802469135802467,
-      "route": [
-        {
-          "x": 66,
-          "y": 670
-        },
-        {
+          "id": "s5abm505",
+          "name": "既存ベンダー",
           "x": 486,
-          "y": 670
+          "y": 216,
+          "w": 504,
+          "h": 360,
+          "color": "#438ac7",
+          "fill": "#2683d422"
+        },
+        {
+          "id": "uf3gsu10",
+          "name": "お客様",
+          "x": 486,
+          "y": -54,
+          "w": 504,
+          "h": 198,
+          "color": "#24733a",
+          "fill": "#e8f7e9",
+          "paletteIndex": 1
+        },
+        {
+          "id": "51gx6rqd",
+          "name": "一流コンサル(2025年参画)",
+          "x": 486,
+          "y": 612,
+          "w": 252,
+          "h": 162,
+          "color": "#438ac7",
+          "fill": "#2683d422"
+        },
+        {
+          "id": "rp1szumr",
+          "name": "QA",
+          "x": 90,
+          "y": -54,
+          "w": 252,
+          "h": 198,
+          "color": "#205982",
+          "fill": "#e7f3ff",
+          "paletteIndex": 0
+        },
+        {
+          "id": "uh699jgb",
+          "name": "デザイン会社",
+          "x": 1152,
+          "y": 324,
+          "w": 252,
+          "h": 162,
+          "color": "#205982",
+          "fill": "#e7f3ff",
+          "paletteIndex": 0
+        },
+        {
+          "id": "ui9vhmev",
+          "name": "製品販売",
+          "x": -396,
+          "y": 720,
+          "w": 486,
+          "h": 144,
+          "color": "#205982",
+          "fill": "#e7f3ff",
+          "paletteIndex": 0
+        },
+        {
+          "id": "gufnmpml",
+          "name": "営業",
+          "x": -162,
+          "y": 468,
+          "w": 252,
+          "h": 126,
+          "color": "#205982",
+          "fill": "#e7f3ff",
+          "paletteIndex": 0
+        },
+        {
+          "id": "zhq1z1kz",
+          "name": "開発",
+          "x": -162,
+          "y": 594,
+          "w": 252,
+          "h": 126,
+          "color": "#205982",
+          "fill": "#e7f3ff",
+          "paletteIndex": 0
+        },
+        {
+          "id": "cdrvsubp",
+          "name": "コンサル",
+          "x": -162,
+          "y": 864,
+          "w": 252,
+          "h": 126,
+          "color": "#205982",
+          "fill": "#e7f3ff",
+          "paletteIndex": 0
+        },
+        {
+          "id": "iks1vf31",
+          "name": "俺たちのPJ",
+          "x": 90,
+          "y": -108,
+          "w": 1332,
+          "h": 1098,
+          "color": "#765239",
+          "fill": "#f4ece5",
+          "paletteIndex": 9
         }
-      ]
-    },
-    {
-      "id": "gguz0eji",
-      "from": "q590d85y",
-      "to": "03sne3oi",
-      "fromType": "node",
-      "toType": "node",
-      "label": "",
-      "color": "#12a343",
-      "colorKey": "green",
-      "width": 3,
-      "lineType": "straight",
-      "cornerStyle": "sharp",
-      "fromSide": "right",
-      "toSide": "left",
-      "route": [
+      ],
+      "nodes": [
         {
-          "x": 66,
-          "y": 797
+          "id": "ngoapfq2",
+          "name": "同僚",
+          "role": "コミュニケーション",
+          "x": 108,
+          "y": 234,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E7%AC%91%E9%A1%94%E3%81%AE%E5%A5%B3%E6%80%A7%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-2.png"
         },
         {
-          "x": 1006,
-          "y": 797
+          "id": "p93hx3m5",
+          "name": "ワイ",
+          "role": "技術",
+          "x": 108,
+          "y": 324,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
         },
         {
-          "x": 1006,
-          "y": 59
+          "id": "jyey8ufn",
+          "name": "ボス",
+          "role": "",
+          "x": -144,
+          "y": 234,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
         },
         {
+          "id": "drye2uwg",
+          "name": "大ボス",
+          "role": "",
+          "x": -144,
+          "y": 324,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%B0%E3%83%AC%E3%83%BC%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
+        },
+        {
+          "id": "9pznft10",
+          "name": "ロックマン",
+          "role": "マネージャー",
+          "x": 504,
+          "y": 270,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E4%B8%8D%E6%BA%80%E3%81%92%E3%81%AA%E3%82%B9%E3%83%BC%E3%83%84%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-4.png"
+        },
+        {
+          "id": "a24x54oe",
+          "name": "部下F",
+          "role": "技術オブザーバー",
           "x": 756,
-          "y": 59
-        }
-      ]
-    },
-    {
-      "id": "bk65f853",
-      "from": "t0qnbvnl",
-      "to": "tkd9rx78",
-      "fromType": "node",
-      "toType": "group",
-      "label": "不信",
-      "color": "#e32424",
-      "colorKey": "red",
-      "width": 3,
-      "lineType": "straight",
-      "cornerStyle": "sharp",
-      "fromSide": "top",
-      "toSide": "bottom",
-      "fromOffset": 0.49523809523809526,
-      "toOffset": 0.24206349206349206,
-      "route": [
-        {
-          "x": -274,
-          "y": 756
+          "y": 270,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
         },
         {
-          "x": -274,
-          "y": 745.4220581054688
+          "id": "494awr5j",
+          "name": "部下M",
+          "role": "敏腕マネージャー",
+          "x": 756,
+          "y": 378,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E8%87%AA%E4%BF%A1%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%BC%E3%83%84%E5%A7%BF%E3%81%AE%E7%94%B7%E6%80%A7-3.png"
         },
         {
-          "x": -274,
-          "y": 432
+          "id": "vn3nxs23",
+          "name": "部下K",
+          "role": "敏腕エンジニア",
+          "x": 756,
+          "y": 486,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E7%AC%91%E9%A1%94%E3%81%AE%E8%8B%A5%E6%89%8B%E7%94%B7%E6%80%A7%E4%BC%9A%E7%A4%BE%E5%93%A1%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC-1.png"
         },
         {
-          "x": -40,
-          "y": 432
+          "id": "o6486ch9",
+          "name": "部長",
+          "role": "決定権者",
+          "x": 522,
+          "y": 18,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
         },
         {
-          "x": -40,
-          "y": 414
-        }
-      ]
-    },
-    {
-      "id": "wc0n84hf",
-      "from": "q590d85y",
-      "to": "tkd9rx78",
-      "fromType": "node",
-      "toType": "group",
-      "label": "",
-      "color": "#12a343",
-      "colorKey": "green",
-      "width": 3,
-      "toSide": "bottom",
-      "toOffset": 0.17857142857142858,
-      "route": [
-        {
-          "x": -72,
-          "y": 756
+          "id": "03sne3oi",
+          "name": "課長",
+          "role": "ITに詳しい",
+          "x": 756,
+          "y": 18,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E5%8F%A3%E3%81%B2%E3%81%92%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
         },
         {
-          "x": -72,
-          "y": 738
+          "id": "t60y2jgk",
+          "name": "コンサルマン",
+          "role": "人当たりが良い",
+          "x": 504,
+          "y": 666,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
         },
         {
-          "x": -178,
-          "y": 738
+          "id": "jrs5b8z9",
+          "name": "現リーダー",
+          "role": "",
+          "x": 108,
+          "y": -18,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E7%AC%91%E9%A1%94%E3%81%AE%E8%8B%A5%E6%89%8B%E7%94%B7%E6%80%A7%E4%BC%9A%E7%A4%BE%E5%93%A1%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC-1.png"
         },
         {
-          "x": -178,
-          "y": 452
+          "id": "5lgdvkt6",
+          "name": "過去リーダー",
+          "role": "ロックマンと衝突",
+          "x": 126,
+          "y": 54,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E4%B8%8D%E6%BA%80%E3%81%92%E3%81%AA%E3%82%B9%E3%83%BC%E3%83%84%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-4.png"
         },
         {
-          "x": -72,
-          "y": 452
+          "id": "13f46nln",
+          "name": "デザイナー",
+          "role": "",
+          "x": 1170,
+          "y": 378,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E8%87%AA%E4%BF%A1%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%BC%E3%83%84%E5%A7%BF%E3%81%AE%E7%94%B7%E6%80%A7-3.png"
         },
         {
-          "x": -72,
-          "y": 414
+          "id": "qa7041zp",
+          "name": "営業",
+          "role": "",
+          "x": -144,
+          "y": 504,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E8%87%AA%E4%BF%A1%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E3%82%B9%E3%83%BC%E3%83%84%E5%A7%BF%E3%81%AE%E7%94%B7%E6%80%A7-3.png"
+        },
+        {
+          "id": "2g36k09r",
+          "name": "開発",
+          "role": "",
+          "x": -144,
+          "y": 630,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
+        },
+        {
+          "id": "q590d85y",
+          "name": "メンバー",
+          "role": "",
+          "x": -144,
+          "y": 756,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
+        },
+        {
+          "id": "t0qnbvnl",
+          "name": "ボス",
+          "role": "",
+          "x": -378,
+          "y": 756,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
         }
       ],
-      "lineType": "straight",
-      "cornerStyle": "sharp",
-      "fromSide": "top",
-      "fromOffset": 0.34285714285714286
-    },
-    {
-      "id": "ihu9rfev",
-      "from": "cdrvsubp",
-      "to": "uf3gsu10",
-      "fromType": "group",
-      "toType": "group",
-      "label": "提案失敗",
-      "color": "#12a343",
-      "colorKey": "green",
-      "width": 3,
-      "dash": "dashed",
-      "lineType": "straight",
-      "cornerStyle": "sharp",
-      "fromSide": "bottom",
-      "toSide": "bottom",
-      "route": [
+      "edges": [
         {
-          "x": -45.37595737256234,
-          "y": 990
+          "id": "5m34n0ep",
+          "from": "rp1szumr",
+          "to": "9pznft10",
+          "label": "過去に衝突",
+          "color": "#e32424",
+          "colorKey": "red",
+          "width": 3,
+          "direction": "both",
+          "lineType": "straight",
+          "dash": "dashed",
+          "toType": "node",
+          "toSide": "left",
+          "fromSide": "right",
+          "route": [
+            {
+              "x": 342,
+              "y": 113.9386213835102
+            },
+            {
+              "x": 360,
+              "y": 113.9386213835102
+            },
+            {
+              "x": 360,
+              "y": 281.6624042627438
+            },
+            {
+              "x": 504,
+              "y": 281.6624042627438
+            }
+          ],
+          "fromType": "group",
+          "labelX": 365.3751220703125,
+          "labelY": 160.3580780029297,
+          "fromOffset": 0.8481748554722737,
+          "toOffset": 0.14222444222858252,
+          "cornerStyle": "sharp"
         },
         {
-          "x": -45.37595737256234,
-          "y": 1008
+          "id": "1jdbka3z",
+          "from": "9pznft10",
+          "to": "tkd9rx78",
+          "label": "感じ悪い",
+          "color": "#e32424",
+          "colorKey": "red",
+          "width": 3,
+          "lineType": "straight",
+          "fromSide": "left",
+          "toSide": "right",
+          "route": [
+            {
+              "x": 504,
+              "y": 310
+            },
+            {
+              "x": 342,
+              "y": 310
+            }
+          ],
+          "cornerStyle": "sharp",
+          "fromOffset": 0.4878048780487805,
+          "toOffset": 0.5555555555555556,
+          "toType": "group"
         },
         {
-          "x": -412,
-          "y": 1008
+          "id": "386q9fkk",
+          "from": "s5abm505",
+          "to": "uf3gsu10",
+          "fromType": "group",
+          "toType": "group",
+          "label": "ベンダーロック",
+          "color": "#e32424",
+          "colorKey": "red",
+          "width": 3,
+          "lineType": "straight",
+          "fromSide": "top",
+          "toSide": "bottom",
+          "route": [
+            {
+              "x": 734,
+              "y": 216
+            },
+            {
+              "x": 734,
+              "y": 144
+            }
+          ],
+          "cornerStyle": "sharp",
+          "fromOffset": 0.49206349206349204,
+          "toOffset": 0.49206349206349204,
+          "labelX": 736.029052734375,
+          "labelY": 183.48846435546875
         },
         {
-          "x": -412,
-          "y": 162
+          "id": "7bfkv0tj",
+          "from": "s5abm505",
+          "to": "uh699jgb",
+          "fromType": "group",
+          "toType": "group",
+          "label": "請負?",
+          "color": "#12a343",
+          "colorKey": "green",
+          "width": 3,
+          "lineType": "straight",
+          "fromSide": "right",
+          "toSide": "left",
+          "route": [
+            {
+              "x": 990,
+              "y": 412
+            },
+            {
+              "x": 1152,
+              "y": 412
+            }
+          ],
+          "cornerStyle": "sharp",
+          "fromOffset": 0.5444444444444444,
+          "toOffset": 0.5432098765432098
         },
         {
-          "x": 605.2156880191585,
-          "y": 162
+          "id": "qrrfl3q1",
+          "from": "51gx6rqd",
+          "to": "9pznft10",
+          "fromType": "group",
+          "toType": "node",
+          "label": "",
+          "color": "#f28b13",
+          "colorKey": "orange",
+          "width": 3,
+          "lineType": "straight",
+          "route": [
+            {
+              "x": 608,
+              "y": 612
+            },
+            {
+              "x": 608,
+              "y": 352
+            }
+          ],
+          "fromSide": "top",
+          "toSide": "bottom",
+          "cornerStyle": "sharp",
+          "fromOffset": 0.48412698412698413,
+          "toOffset": 0.49523809523809526
         },
         {
-          "x": 605.2156880191585,
-          "y": 144
+          "id": "m6ws8277",
+          "from": "qa7041zp",
+          "to": "tkd9rx78",
+          "fromType": "node",
+          "toType": "group",
+          "label": "監視",
+          "color": "#7622bb",
+          "colorKey": "purple",
+          "width": 3,
+          "toSide": "bottom",
+          "toOffset": 0.3055555555555556,
+          "lineType": "straight",
+          "cornerStyle": "sharp",
+          "fromSide": "top",
+          "fromOffset": 0.6476190476190476,
+          "route": [
+            {
+              "x": -8,
+              "y": 504
+            },
+            {
+              "x": -8,
+              "y": 414
+            }
+          ]
+        },
+        {
+          "id": "qxm5hhiz",
+          "from": "2g36k09r",
+          "to": "51gx6rqd",
+          "fromType": "node",
+          "toType": "group",
+          "label": "対抗意識",
+          "color": "#f28b13",
+          "colorKey": "orange",
+          "width": 3,
+          "lineType": "straight",
+          "cornerStyle": "sharp",
+          "fromSide": "right",
+          "toSide": "left",
+          "fromOffset": 0.4878048780487805,
+          "toOffset": 0.35802469135802467,
+          "route": [
+            {
+              "x": 66,
+              "y": 670
+            },
+            {
+              "x": 486,
+              "y": 670
+            }
+          ]
+        },
+        {
+          "id": "gguz0eji",
+          "from": "q590d85y",
+          "to": "03sne3oi",
+          "fromType": "node",
+          "toType": "node",
+          "label": "",
+          "color": "#12a343",
+          "colorKey": "green",
+          "width": 3,
+          "lineType": "straight",
+          "cornerStyle": "sharp",
+          "fromSide": "right",
+          "toSide": "left",
+          "route": [
+            {
+              "x": 66,
+              "y": 797
+            },
+            {
+              "x": 1006,
+              "y": 797
+            },
+            {
+              "x": 1006,
+              "y": 59
+            },
+            {
+              "x": 756,
+              "y": 59
+            }
+          ]
+        },
+        {
+          "id": "bk65f853",
+          "from": "t0qnbvnl",
+          "to": "tkd9rx78",
+          "fromType": "node",
+          "toType": "group",
+          "label": "不信",
+          "color": "#e32424",
+          "colorKey": "red",
+          "width": 3,
+          "lineType": "straight",
+          "cornerStyle": "sharp",
+          "fromSide": "top",
+          "toSide": "bottom",
+          "fromOffset": 0.49523809523809526,
+          "toOffset": 0.24206349206349206,
+          "route": [
+            {
+              "x": -274,
+              "y": 756
+            },
+            {
+              "x": -274,
+              "y": 745.4220581054688
+            },
+            {
+              "x": -274,
+              "y": 432
+            },
+            {
+              "x": -40,
+              "y": 432
+            },
+            {
+              "x": -40,
+              "y": 414
+            }
+          ]
+        },
+        {
+          "id": "wc0n84hf",
+          "from": "q590d85y",
+          "to": "tkd9rx78",
+          "fromType": "node",
+          "toType": "group",
+          "label": "",
+          "color": "#12a343",
+          "colorKey": "green",
+          "width": 3,
+          "toSide": "bottom",
+          "toOffset": 0.17857142857142858,
+          "route": [
+            {
+              "x": -72,
+              "y": 756
+            },
+            {
+              "x": -72,
+              "y": 738
+            },
+            {
+              "x": -178,
+              "y": 738
+            },
+            {
+              "x": -178,
+              "y": 452
+            },
+            {
+              "x": -72,
+              "y": 452
+            },
+            {
+              "x": -72,
+              "y": 414
+            }
+          ],
+          "lineType": "straight",
+          "cornerStyle": "sharp",
+          "fromSide": "top",
+          "fromOffset": 0.34285714285714286
+        },
+        {
+          "id": "ihu9rfev",
+          "from": "cdrvsubp",
+          "to": "uf3gsu10",
+          "fromType": "group",
+          "toType": "group",
+          "label": "提案失敗",
+          "color": "#12a343",
+          "colorKey": "green",
+          "width": 3,
+          "dash": "dashed",
+          "lineType": "straight",
+          "cornerStyle": "sharp",
+          "fromSide": "bottom",
+          "toSide": "bottom",
+          "route": [
+            {
+              "x": -45.37595737256234,
+              "y": 990
+            },
+            {
+              "x": -45.37595737256234,
+              "y": 1008
+            },
+            {
+              "x": -412,
+              "y": 1008
+            },
+            {
+              "x": -412,
+              "y": 162
+            },
+            {
+              "x": 605.2156880191585,
+              "y": 162
+            },
+            {
+              "x": 605.2156880191585,
+              "y": 144
+            }
+          ],
+          "fromOffset": 0.46279381995014945,
+          "toOffset": 0.23653906353007637
         }
       ],
-      "fromOffset": 0.46279381995014945,
-      "toOffset": 0.23653906353007637
+      "zOrder": [
+        "group:iks1vf31",
+        "group:zhq1z1kz",
+        "group:gufnmpml",
+        "group:ui9vhmev",
+        "group:tkd9rx78",
+        "group:s5abm505",
+        "group:uf3gsu10",
+        "group:rp1szumr",
+        "group:uh699jgb",
+        "node:ngoapfq2",
+        "node:p93hx3m5",
+        "node:jyey8ufn",
+        "node:drye2uwg",
+        "node:a24x54oe",
+        "node:494awr5j",
+        "node:vn3nxs23",
+        "node:o6486ch9",
+        "node:5lgdvkt6",
+        "node:13f46nln",
+        "node:jrs5b8z9",
+        "note:7m9xddvr",
+        "edge:5m34n0ep",
+        "edge:1jdbka3z",
+        "node:9pznft10",
+        "edge:386q9fkk",
+        "edge:7bfkv0tj",
+        "group:51gx6rqd",
+        "node:t60y2jgk",
+        "edge:qrrfl3q1",
+        "node:qa7041zp",
+        "edge:m6ws8277",
+        "node:2g36k09r",
+        "edge:qxm5hhiz",
+        "node:q590d85y",
+        "edge:gguz0eji",
+        "node:03sne3oi",
+        "node:t0qnbvnl",
+        "edge:bk65f853",
+        "edge:wc0n84hf",
+        "group:cdrvsubp",
+        "edge:ihu9rfev"
+      ],
+      "notes": [
+        {
+          "id": "7m9xddvr",
+          "text": "信頼",
+          "shape": "circle",
+          "fontSize": "large",
+          "x": 36,
+          "y": 270,
+          "w": 90,
+          "h": 90,
+          "targetType": "",
+          "targetId": ""
+        }
+      ]
     }
-  ],
-  "zOrder": [
-    "group:iks1vf31",
-    "group:zhq1z1kz",
-    "group:gufnmpml",
-    "group:ui9vhmev",
-    "group:tkd9rx78",
-    "group:s5abm505",
-    "group:uf3gsu10",
-    "group:rp1szumr",
-    "group:uh699jgb",
-    "node:ngoapfq2",
-    "node:p93hx3m5",
-    "node:jyey8ufn",
-    "node:drye2uwg",
-    "node:a24x54oe",
-    "node:494awr5j",
-    "node:vn3nxs23",
-    "node:o6486ch9",
-    "node:5lgdvkt6",
-    "node:13f46nln",
-    "node:jrs5b8z9",
-    "note:7m9xddvr",
-    "edge:5m34n0ep",
-    "edge:1jdbka3z",
-    "node:9pznft10",
-    "edge:386q9fkk",
-    "edge:7bfkv0tj",
-    "group:51gx6rqd",
-    "node:t60y2jgk",
-    "edge:qrrfl3q1",
-    "node:qa7041zp",
-    "edge:m6ws8277",
-    "node:2g36k09r",
-    "edge:qxm5hhiz",
-    "node:q590d85y",
-    "edge:gguz0eji",
-    "node:03sne3oi",
-    "node:t0qnbvnl",
-    "edge:bk65f853",
-    "edge:wc0n84hf",
-    "group:cdrvsubp",
-    "edge:ihu9rfev"
-  ],
-  "notes": [
-    {
-      "id": "7m9xddvr",
-      "text": "信頼",
-      "shape": "circle",
-      "fontSize": "large",
-      "x": 36,
-      "y": 270,
-      "w": 90,
-      "h": 90,
-      "targetType": "",
-      "targetId": ""
-    }
-  ]
+  }
 }
