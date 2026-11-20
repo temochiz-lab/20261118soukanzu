@@ -1,0 +1,1655 @@
+{
+  "version": 2,
+  "activeTabId": "tokugawa",
+  "tabs": [
+    {
+      "id": "tokugawa",
+      "name": "徳川将軍家系図",
+      "data": {
+        "version": 1,
+        "nodes": [
+          {
+            "id": "ieyasu",
+            "name": "家康",
+            "role": "初代将軍",
+            "x": 0,
+            "y": 0,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "nobuyasu",
+            "name": "信康",
+            "role": "",
+            "x": 0,
+            "y": 162,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "hideyasu",
+            "name": "秀康",
+            "role": "結城",
+            "x": 234,
+            "y": 162,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "hidetada",
+            "name": "秀忠",
+            "role": "第2代将軍",
+            "x": 468,
+            "y": 162,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "tadateru",
+            "name": "忠輝",
+            "role": "松平",
+            "x": 702,
+            "y": 162,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "yoshinao",
+            "name": "義直",
+            "role": "尾張藩",
+            "x": 936,
+            "y": 162,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "yorinobu",
+            "name": "頼宣",
+            "role": "紀伊藩",
+            "x": 1170,
+            "y": 162,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "yorifusa",
+            "name": "頼房",
+            "role": "水戸藩",
+            "x": 2340,
+            "y": 162,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "iemitsu",
+            "name": "家光",
+            "role": "第3代将軍",
+            "x": 0,
+            "y": 324,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "tadanaga",
+            "name": "忠長",
+            "role": "",
+            "x": 234,
+            "y": 324,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "kazuko",
+            "name": "和子",
+            "role": "",
+            "x": 468,
+            "y": 324,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "masayuki",
+            "name": "正之",
+            "role": "保科",
+            "x": 702,
+            "y": 324,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "mitsusada",
+            "name": "光貞",
+            "role": "",
+            "x": 1170,
+            "y": 324,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "ietsuna",
+            "name": "家綱",
+            "role": "第4代将軍",
+            "x": 0,
+            "y": 486,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "tsunashige",
+            "name": "綱重",
+            "role": "",
+            "x": 234,
+            "y": 486,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "tsunayoshi",
+            "name": "綱吉",
+            "role": "第5代将軍",
+            "x": 468,
+            "y": 486,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "yoshimune",
+            "name": "吉宗",
+            "role": "第8代将軍",
+            "x": 1170,
+            "y": 486,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "ienobu",
+            "name": "家宣",
+            "role": "第6代将軍",
+            "x": 234,
+            "y": 648,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "ieshige",
+            "name": "家重",
+            "role": "第9代将軍",
+            "x": 702,
+            "y": 648,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "munetake",
+            "name": "宗武",
+            "role": "田安",
+            "x": 1170,
+            "y": 648,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "munehira",
+            "name": "宗尹",
+            "role": "一橋",
+            "x": 1404,
+            "y": 648,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "ietsu",
+            "name": "家継",
+            "role": "第7代将軍",
+            "x": 234,
+            "y": 810,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "ieharu",
+            "name": "家治",
+            "role": "第10代将軍",
+            "x": 702,
+            "y": 810,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "shigeyoshi",
+            "name": "重好",
+            "role": "清水",
+            "x": 936,
+            "y": 810,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "sadanobu",
+            "name": "定信",
+            "role": "松平",
+            "x": 1170,
+            "y": 810,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "harusada",
+            "name": "治済",
+            "role": "",
+            "x": 1404,
+            "y": 810,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "nariaki",
+            "name": "斉昭",
+            "role": "",
+            "x": 2340,
+            "y": 810,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "ienari",
+            "name": "家斉",
+            "role": "11代・一橋出身",
+            "x": 1404,
+            "y": 972,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "nariatsu",
+            "name": "斉敦",
+            "role": "",
+            "x": 1638,
+            "y": 972,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "narimasa",
+            "name": "斉匡",
+            "role": "田安家継承",
+            "x": 1872,
+            "y": 972,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "yoshinobu",
+            "name": "慶喜",
+            "role": "15代・水戸→一橋",
+            "x": 2340,
+            "y": 972,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "ieyoshi",
+            "name": "家慶",
+            "role": "12代・一橋の血筋",
+            "x": 1170,
+            "y": 1134,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "nariyuki",
+            "name": "斉順",
+            "role": "紀伊家継承",
+            "x": 1404,
+            "y": 1134,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "yoshiyori",
+            "name": "慶頼",
+            "role": "",
+            "x": 1872,
+            "y": 1134,
+            "w": 180,
+            "h": 72
+          },
+          {
+            "id": "iesada",
+            "name": "家定",
+            "role": "13代・一橋の血筋",
+            "x": 1170,
+            "y": 1296,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "iemochi",
+            "name": "家茂",
+            "role": "14代・紀伊出身",
+            "x": 1404,
+            "y": 1296,
+            "w": 180,
+            "h": 72,
+            "fill": "#dff2ff",
+            "raised": true,
+            "icon": "personcard/口ひげおじさん.png"
+          },
+          {
+            "id": "iesato",
+            "name": "家達",
+            "role": "宗家継承",
+            "x": 1872,
+            "y": 1296,
+            "w": 180,
+            "h": 72
+          }
+        ],
+        "groups": [
+          {
+            "id": "group-owari",
+            "name": "御三家・尾張",
+            "x": 927,
+            "y": 126,
+            "w": 198,
+            "h": 117,
+            "color": "#24733a",
+            "fill": "#e8f7e9",
+            "allowArrowThrough": true
+          },
+          {
+            "id": "group-kii",
+            "name": "御三家・紀伊系",
+            "x": 1161,
+            "y": 126,
+            "w": 198,
+            "h": 441,
+            "color": "#24733a",
+            "fill": "#e8f7e9",
+            "allowArrowThrough": true
+          },
+          {
+            "id": "group-mito",
+            "name": "御三家・水戸系",
+            "x": 2331,
+            "y": 126,
+            "w": 198,
+            "h": 927,
+            "color": "#24733a",
+            "fill": "#e8f7e9",
+            "allowArrowThrough": true
+          },
+          {
+            "id": "group-tayasu",
+            "name": "御三卿・田安系",
+            "x": 1161,
+            "y": 612,
+            "w": 198,
+            "h": 279,
+            "color": "#a45b12",
+            "fill": "#fff1db",
+            "allowArrowThrough": true
+          },
+          {
+            "id": "group-hitotsubashi",
+            "name": "御三卿・一橋系",
+            "x": 1395,
+            "y": 612,
+            "w": 198,
+            "h": 441,
+            "color": "#a45b12",
+            "fill": "#fff1db",
+            "allowArrowThrough": true
+          },
+          {
+            "id": "group-shimizu",
+            "name": "御三卿・清水",
+            "x": 927,
+            "y": 774,
+            "w": 198,
+            "h": 117,
+            "color": "#a45b12",
+            "fill": "#fff1db",
+            "allowArrowThrough": true
+          }
+        ],
+        "notes": [],
+        "edges": [
+          {
+            "id": "e0",
+            "from": "ieyasu",
+            "to": "nobuyasu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e1",
+            "from": "ieyasu",
+            "to": "hideyasu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 117
+              },
+              {
+                "x": 324,
+                "y": 117
+              },
+              {
+                "x": 324,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e2",
+            "from": "ieyasu",
+            "to": "hidetada",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 117
+              },
+              {
+                "x": 558,
+                "y": 117
+              },
+              {
+                "x": 558,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e3",
+            "from": "ieyasu",
+            "to": "tadateru",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 117
+              },
+              {
+                "x": 792,
+                "y": 117
+              },
+              {
+                "x": 792,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e4",
+            "from": "ieyasu",
+            "to": "yoshinao",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 117
+              },
+              {
+                "x": 1026,
+                "y": 117
+              },
+              {
+                "x": 1026,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e5",
+            "from": "ieyasu",
+            "to": "yorinobu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 117
+              },
+              {
+                "x": 1260,
+                "y": 117
+              },
+              {
+                "x": 1260,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e6",
+            "from": "ieyasu",
+            "to": "yorifusa",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 72
+              },
+              {
+                "x": 90,
+                "y": 117
+              },
+              {
+                "x": 2430,
+                "y": 117
+              },
+              {
+                "x": 2430,
+                "y": 162
+              }
+            ]
+          },
+          {
+            "id": "e7",
+            "from": "hidetada",
+            "to": "iemitsu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 558,
+                "y": 234
+              },
+              {
+                "x": 558,
+                "y": 279
+              },
+              {
+                "x": 90,
+                "y": 279
+              },
+              {
+                "x": 90,
+                "y": 324
+              }
+            ]
+          },
+          {
+            "id": "e8",
+            "from": "hidetada",
+            "to": "tadanaga",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 558,
+                "y": 234
+              },
+              {
+                "x": 558,
+                "y": 279
+              },
+              {
+                "x": 324,
+                "y": 279
+              },
+              {
+                "x": 324,
+                "y": 324
+              }
+            ]
+          },
+          {
+            "id": "e9",
+            "from": "hidetada",
+            "to": "kazuko",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 558,
+                "y": 234
+              },
+              {
+                "x": 558,
+                "y": 324
+              }
+            ]
+          },
+          {
+            "id": "e10",
+            "from": "hidetada",
+            "to": "masayuki",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 558,
+                "y": 234
+              },
+              {
+                "x": 558,
+                "y": 279
+              },
+              {
+                "x": 792,
+                "y": 279
+              },
+              {
+                "x": 792,
+                "y": 324
+              }
+            ]
+          },
+          {
+            "id": "e11",
+            "from": "iemitsu",
+            "to": "ietsuna",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 396
+              },
+              {
+                "x": 90,
+                "y": 486
+              }
+            ]
+          },
+          {
+            "id": "e12",
+            "from": "iemitsu",
+            "to": "tsunashige",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 396
+              },
+              {
+                "x": 90,
+                "y": 441
+              },
+              {
+                "x": 324,
+                "y": 441
+              },
+              {
+                "x": 324,
+                "y": 486
+              }
+            ]
+          },
+          {
+            "id": "e13",
+            "from": "iemitsu",
+            "to": "tsunayoshi",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 90,
+                "y": 396
+              },
+              {
+                "x": 90,
+                "y": 441
+              },
+              {
+                "x": 558,
+                "y": 441
+              },
+              {
+                "x": 558,
+                "y": 486
+              }
+            ]
+          },
+          {
+            "id": "e14",
+            "from": "yorinobu",
+            "to": "mitsusada",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 234
+              },
+              {
+                "x": 1260,
+                "y": 324
+              }
+            ]
+          },
+          {
+            "id": "e15",
+            "from": "mitsusada",
+            "to": "yoshimune",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 396
+              },
+              {
+                "x": 1260,
+                "y": 486
+              }
+            ]
+          },
+          {
+            "id": "e16",
+            "from": "tsunashige",
+            "to": "ienobu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 324,
+                "y": 558
+              },
+              {
+                "x": 324,
+                "y": 648
+              }
+            ]
+          },
+          {
+            "id": "e17",
+            "from": "ienobu",
+            "to": "ietsu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 324,
+                "y": 720
+              },
+              {
+                "x": 324,
+                "y": 810
+              }
+            ]
+          },
+          {
+            "id": "e18",
+            "from": "yoshimune",
+            "to": "ieshige",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 558
+              },
+              {
+                "x": 1260,
+                "y": 603
+              },
+              {
+                "x": 792,
+                "y": 603
+              },
+              {
+                "x": 792,
+                "y": 648
+              }
+            ]
+          },
+          {
+            "id": "e19",
+            "from": "yoshimune",
+            "to": "munetake",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 558
+              },
+              {
+                "x": 1260,
+                "y": 648
+              }
+            ]
+          },
+          {
+            "id": "e20",
+            "from": "yoshimune",
+            "to": "munehira",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 558
+              },
+              {
+                "x": 1260,
+                "y": 603
+              },
+              {
+                "x": 1494,
+                "y": 603
+              },
+              {
+                "x": 1494,
+                "y": 648
+              }
+            ]
+          },
+          {
+            "id": "e21",
+            "from": "ieshige",
+            "to": "ieharu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 792,
+                "y": 720
+              },
+              {
+                "x": 792,
+                "y": 810
+              }
+            ]
+          },
+          {
+            "id": "e22",
+            "from": "ieshige",
+            "to": "shigeyoshi",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 792,
+                "y": 720
+              },
+              {
+                "x": 792,
+                "y": 765
+              },
+              {
+                "x": 1026,
+                "y": 765
+              },
+              {
+                "x": 1026,
+                "y": 810
+              }
+            ]
+          },
+          {
+            "id": "e23",
+            "from": "munetake",
+            "to": "sadanobu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 720
+              },
+              {
+                "x": 1260,
+                "y": 810
+              }
+            ]
+          },
+          {
+            "id": "e24",
+            "from": "munehira",
+            "to": "harusada",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 720
+              },
+              {
+                "x": 1494,
+                "y": 810
+              }
+            ]
+          },
+          {
+            "id": "e25",
+            "from": "harusada",
+            "to": "ienari",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 882
+              },
+              {
+                "x": 1494,
+                "y": 972
+              }
+            ]
+          },
+          {
+            "id": "e26",
+            "from": "harusada",
+            "to": "nariatsu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 882
+              },
+              {
+                "x": 1494,
+                "y": 927
+              },
+              {
+                "x": 1728,
+                "y": 927
+              },
+              {
+                "x": 1728,
+                "y": 972
+              }
+            ]
+          },
+          {
+            "id": "e27",
+            "from": "harusada",
+            "to": "narimasa",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 882
+              },
+              {
+                "x": 1494,
+                "y": 927
+              },
+              {
+                "x": 1962,
+                "y": 927
+              },
+              {
+                "x": 1962,
+                "y": 972
+              }
+            ]
+          },
+          {
+            "id": "e28",
+            "from": "yorifusa",
+            "to": "nariaki",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "dash": "dashed",
+            "label": "途中省略",
+            "route": [
+              {
+                "x": 2430,
+                "y": 234
+              },
+              {
+                "x": 2430,
+                "y": 810
+              }
+            ]
+          },
+          {
+            "id": "e29",
+            "from": "nariaki",
+            "to": "yoshinobu",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 2430,
+                "y": 882
+              },
+              {
+                "x": 2430,
+                "y": 972
+              }
+            ]
+          },
+          {
+            "id": "e30",
+            "from": "ienari",
+            "to": "ieyoshi",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 1044
+              },
+              {
+                "x": 1494,
+                "y": 1089
+              },
+              {
+                "x": 1260,
+                "y": 1089
+              },
+              {
+                "x": 1260,
+                "y": 1134
+              }
+            ]
+          },
+          {
+            "id": "e31",
+            "from": "ienari",
+            "to": "nariyuki",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 1044
+              },
+              {
+                "x": 1494,
+                "y": 1134
+              }
+            ]
+          },
+          {
+            "id": "e32",
+            "from": "ieyoshi",
+            "to": "iesada",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1260,
+                "y": 1206
+              },
+              {
+                "x": 1260,
+                "y": 1296
+              }
+            ]
+          },
+          {
+            "id": "e33",
+            "from": "nariyuki",
+            "to": "iemochi",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1494,
+                "y": 1206
+              },
+              {
+                "x": 1494,
+                "y": 1296
+              }
+            ]
+          },
+          {
+            "id": "e34",
+            "from": "narimasa",
+            "to": "yoshiyori",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1962,
+                "y": 1044
+              },
+              {
+                "x": 1962,
+                "y": 1134
+              }
+            ]
+          },
+          {
+            "id": "e35",
+            "from": "yoshiyori",
+            "to": "iesato",
+            "fromType": "node",
+            "toType": "node",
+            "fromSide": "bottom",
+            "toSide": "top",
+            "fromOffset": 0.5,
+            "toOffset": 0.5,
+            "direction": "none",
+            "lineType": "straight",
+            "cornerStyle": "sharp",
+            "color": "#536779",
+            "colorKey": "custom",
+            "width": 2,
+            "route": [
+              {
+                "x": 1962,
+                "y": 1206
+              },
+              {
+                "x": 1962,
+                "y": 1296
+              }
+            ]
+          }
+        ],
+        "zOrder": [
+          "group:group-owari",
+          "group:group-kii",
+          "group:group-mito",
+          "group:group-tayasu",
+          "group:group-hitotsubashi",
+          "group:group-shimizu",
+          "edge:e0",
+          "edge:e1",
+          "edge:e2",
+          "edge:e3",
+          "edge:e4",
+          "edge:e5",
+          "edge:e6",
+          "edge:e7",
+          "edge:e8",
+          "edge:e9",
+          "edge:e10",
+          "edge:e11",
+          "edge:e12",
+          "edge:e13",
+          "edge:e14",
+          "edge:e15",
+          "edge:e16",
+          "edge:e17",
+          "edge:e18",
+          "edge:e19",
+          "edge:e20",
+          "edge:e21",
+          "edge:e22",
+          "edge:e23",
+          "edge:e24",
+          "edge:e25",
+          "edge:e26",
+          "edge:e27",
+          "edge:e28",
+          "edge:e29",
+          "edge:e30",
+          "edge:e31",
+          "edge:e32",
+          "edge:e33",
+          "edge:e34",
+          "edge:e35",
+          "node:ieyasu",
+          "node:nobuyasu",
+          "node:hideyasu",
+          "node:hidetada",
+          "node:tadateru",
+          "node:yoshinao",
+          "node:yorinobu",
+          "node:yorifusa",
+          "node:iemitsu",
+          "node:tadanaga",
+          "node:kazuko",
+          "node:masayuki",
+          "node:mitsusada",
+          "node:ietsuna",
+          "node:tsunashige",
+          "node:tsunayoshi",
+          "node:yoshimune",
+          "node:ienobu",
+          "node:ieshige",
+          "node:munetake",
+          "node:munehira",
+          "node:ietsu",
+          "node:ieharu",
+          "node:shigeyoshi",
+          "node:sadanobu",
+          "node:harusada",
+          "node:nariaki",
+          "node:ienari",
+          "node:nariatsu",
+          "node:narimasa",
+          "node:yoshinobu",
+          "node:ieyoshi",
+          "node:nariyuki",
+          "node:yoshiyori",
+          "node:iesada",
+          "node:iemochi",
+          "node:iesato"
+        ]
+      }
+    }
+  ]
+}
