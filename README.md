@@ -8,8 +8,10 @@
 
 ## サンプルを開く
 
-- [相関図サンプル](https://temochiz-lab.github.io/20261118soukanzu/?loadfile=%E7%9B%B8%E9%96%A2%E5%9B%B3%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.json)
-- [徳川将軍家系図](https://temochiz-lab.github.io/20261118soukanzu/?loadfile=%E5%BE%B3%E5%B7%9D%E5%B0%86%E8%BB%8D%E5%AE%B6%E7%B3%BB%E5%9B%B3.json)
+次のURLを開くと、それぞれのサンプルを表示して編集できます。
+
+- [相関図サンプルを開く](https://temochiz-lab.github.io/20261118soukanzu/?loadfile=%E7%9B%B8%E9%96%A2%E5%9B%B3%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB.json)
+- [徳川将軍家系図を開く](https://temochiz-lab.github.io/20261118soukanzu/?loadfile=%E5%BE%B3%E5%B7%9D%E5%B0%86%E8%BB%8D%E5%AE%B6%E7%B3%BB%E5%9B%B3.json)
 
 リンクを開くと、既存のタブを残してサンプルを新しいタブに読み込みます。URLの `loadfile` 引数で、エディターと同じフォルダーにあるファイル名を指定できます。
 
