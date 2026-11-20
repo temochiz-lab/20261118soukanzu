@@ -6,6 +6,13 @@
 
 [相関図エディターを開く](https://temochiz-lab.github.io/20261118soukanzu/)
 
+## サンプルを開く
+
+- [相関図サンプル](https://temochiz-lab.github.io/20261118soukanzu/?sample=sample)
+- [徳川将軍家系図](https://temochiz-lab.github.io/20261118soukanzu/?sample=tokugawa)
+
+リンクを開くと、既存のタブを残してサンプルを新しいタブに読み込みます。URLの `sample` 引数でサンプルを指定しています。
+
 ## 起動方法
 
 - 公開ページを開くか、`index.html`をブラウザーで開きます。
