@@ -2,7 +2,7 @@
   "version": 2,
   "type": "tab",
   "tab": {
-    "id": "sample",
+    "id": "muntcc1h",
     "name": "相関図サンプル",
     "data": {
       "version": 1,
@@ -29,7 +29,7 @@
         },
         {
           "id": "uf3gsu10",
-          "name": "お客様",
+          "name": "顧客",
           "x": 486,
           "y": -54,
           "w": 504,
@@ -50,7 +50,7 @@
         },
         {
           "id": "rp1szumr",
-          "name": "QA",
+          "name": "QAチーム",
           "x": 90,
           "y": -54,
           "w": 252,
@@ -62,7 +62,7 @@
         {
           "id": "uh699jgb",
           "name": "デザイン会社",
-          "x": 1152,
+          "x": 1062,
           "y": 324,
           "w": 252,
           "h": 162,
@@ -117,20 +117,32 @@
         {
           "id": "iks1vf31",
           "name": "俺たちのPJ",
-          "x": 90,
+          "x": 72,
           "y": -108,
-          "w": 1332,
-          "h": 1098,
+          "w": 1260,
+          "h": 1134,
           "color": "#765239",
           "fill": "#f4ece5",
-          "paletteIndex": 9
+          "paletteIndex": 9,
+          "allowArrowThrough": true
+        },
+        {
+          "id": "3ficcsix",
+          "name": "今の会社",
+          "x": -414,
+          "y": -108,
+          "w": 486,
+          "h": 1134,
+          "color": "#786311",
+          "fill": "#fff9d9",
+          "paletteIndex": 6
         }
       ],
       "nodes": [
         {
           "id": "ngoapfq2",
           "name": "同僚",
-          "role": "コミュニケーション",
+          "role": "今月で契約満了",
           "x": 108,
           "y": 234,
           "w": 210,
@@ -140,7 +152,7 @@
         {
           "id": "p93hx3m5",
           "name": "ワイ",
-          "role": "技術",
+          "role": "ITコンサル",
           "x": 108,
           "y": 324,
           "w": 210,
@@ -189,8 +201,8 @@
         },
         {
           "id": "494awr5j",
-          "name": "部下M",
-          "role": "敏腕マネージャー",
+          "name": "別PJ・M",
+          "role": "一番偉い・良い人",
           "x": 756,
           "y": 378,
           "w": 210,
@@ -199,8 +211,8 @@
         },
         {
           "id": "vn3nxs23",
-          "name": "部下K",
-          "role": "敏腕エンジニア",
+          "name": "別PJ・K",
+          "role": "敏腕エンジニア・良い人",
           "x": 756,
           "y": 486,
           "w": 210,
@@ -261,7 +273,7 @@
           "id": "13f46nln",
           "name": "デザイナー",
           "role": "",
-          "x": 1170,
+          "x": 1080,
           "y": 378,
           "w": 210,
           "h": 82,
@@ -306,6 +318,16 @@
           "w": 210,
           "h": 82,
           "icon": "personcard/%E4%B8%B8%E5%88%88%E3%82%8A%E3%83%A1%E3%82%AC%E3%83%8D%E3%81%8A%E3%81%98%E3%81%95%E3%82%93.png"
+        },
+        {
+          "id": "pfsdvhfl",
+          "name": "コンサルチーム",
+          "role": "",
+          "x": -144,
+          "y": 900,
+          "w": 210,
+          "h": 82,
+          "icon": "personcard/%E3%83%80%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E4%B8%AD%E5%B9%B4.png"
         }
       ],
       "edges": [
@@ -318,7 +340,7 @@
           "colorKey": "red",
           "width": 3,
           "direction": "both",
-          "lineType": "straight",
+          "lineType": "curve",
           "dash": "dashed",
           "toType": "node",
           "toSide": "left",
@@ -409,7 +431,7 @@
           "to": "uh699jgb",
           "fromType": "group",
           "toType": "group",
-          "label": "請負?",
+          "label": "請負",
           "color": "#12a343",
           "colorKey": "green",
           "width": 3,
@@ -517,11 +539,11 @@
           "to": "03sne3oi",
           "fromType": "node",
           "toType": "node",
-          "label": "",
+          "label": "好印象",
           "color": "#12a343",
           "colorKey": "green",
           "width": 3,
-          "lineType": "straight",
+          "lineType": "curve",
           "cornerStyle": "sharp",
           "fromSide": "right",
           "toSide": "left",
@@ -542,7 +564,8 @@
               "x": 756,
               "y": 59
             }
-          ]
+          ],
+          "direction": "both"
         },
         {
           "id": "bk65f853",
@@ -554,7 +577,7 @@
           "color": "#e32424",
           "colorKey": "red",
           "width": 3,
-          "lineType": "straight",
+          "lineType": "curve",
           "cornerStyle": "sharp",
           "fromSide": "top",
           "toSide": "bottom",
@@ -581,7 +604,8 @@
               "x": -40,
               "y": 414
             }
-          ]
+          ],
+          "direction": "both"
         },
         {
           "id": "wc0n84hf",
@@ -622,7 +646,7 @@
             }
           ],
           "lineType": "straight",
-          "cornerStyle": "sharp",
+          "cornerStyle": "rounded",
           "fromSide": "top",
           "fromOffset": 0.34285714285714286
         },
@@ -637,7 +661,7 @@
           "colorKey": "green",
           "width": 3,
           "dash": "dashed",
-          "lineType": "straight",
+          "lineType": "curve",
           "cornerStyle": "sharp",
           "fromSide": "bottom",
           "toSide": "bottom",
@@ -651,11 +675,11 @@
               "y": 1008
             },
             {
-              "x": -412,
+              "x": 470,
               "y": 1008
             },
             {
-              "x": -412,
+              "x": 470,
               "y": 162
             },
             {
@@ -668,10 +692,44 @@
             }
           ],
           "fromOffset": 0.46279381995014945,
-          "toOffset": 0.23653906353007637
+          "toOffset": 0.23653906353007637,
+          "labelX": 468.5250244140625,
+          "labelY": 945.2517700195312
+        },
+        {
+          "id": "zyoibt6a",
+          "from": "p93hx3m5",
+          "to": "qa7041zp",
+          "fromType": "node",
+          "toType": "node",
+          "label": "うるせー",
+          "direction": "end",
+          "color": "#f28b13",
+          "colorKey": "orange",
+          "width": 3,
+          "toSide": "right",
+          "toOffset": 0.6300674946748068,
+          "lineType": "curve",
+          "fromSide": "bottom",
+          "route": [
+            {
+              "x": 200.9979622140015,
+              "y": 406
+            },
+            {
+              "x": 200.9979622140015,
+              "y": 555.6655345633342
+            },
+            {
+              "x": 66,
+              "y": 555.6655345633342
+            }
+          ],
+          "fromOffset": 0.4428474391142928
         }
       ],
       "zOrder": [
+        "group:3ficcsix",
         "group:iks1vf31",
         "group:zhq1z1kz",
         "group:gufnmpml",
@@ -712,7 +770,9 @@
         "edge:bk65f853",
         "edge:wc0n84hf",
         "group:cdrvsubp",
-        "edge:ihu9rfev"
+        "edge:ihu9rfev",
+        "node:pfsdvhfl",
+        "edge:zyoibt6a"
       ],
       "notes": [
         {
@@ -728,6 +788,22 @@
           "targetId": ""
         }
       ]
-    }
+    },
+    "view": {
+      "box": {
+        "x": -607.341064453125,
+        "y": -181.5169219970703,
+        "width": 2000.0001220703125,
+        "height": 1266.6666259765625
+      },
+      "zoomLevel": 60,
+      "zoomBase": {
+        "x": -207.3410522460938,
+        "y": 71.8164093017578,
+        "width": 1200.00009765625,
+        "height": 759.9999633789063
+      }
+    },
+    "sourceFingerprint": "b2868809981b0215fe19fa3cc2221d69b801b1bb19b8bc8482ddbdabc535378f"
   }
 }
